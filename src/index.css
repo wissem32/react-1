@@ -13,9 +13,35 @@ code {
     monospace;
 }
 
-p.first{
-  color:yellow;
+p{
+  font-size: 80% ;
 }
 p.second{
   color:red;
+}
+
+.box {
+  background-color: grey;
+  margin: 5px;
+}
+.person {
+  background-color: blue;
+  margin: 5px;
+}
+
+.checkpoint-f {
+  display: inline-block;
+  margin-bottom: 10px;
+  width:150px;
+  height: 200px;
+  border-style: solid;
+  border-color: yellow
+}
+.checkpoint-m {
+  display: inline-block;
+  margin-bottom: 10px;
+  width:150px;
+  height: 200px;
+  border-style: solid;
+  border-color: blue;
 }
