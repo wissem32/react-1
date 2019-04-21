@@ -45,3 +45,11 @@ p.second{
   border-style: solid;
   border-color: blue;
 }
+
+.checkpoint {
+  display: inline-block;
+  margin-bottom: 10px;
+  width:150px;
+  height: 200px;
+  border-style: solid;
+}
